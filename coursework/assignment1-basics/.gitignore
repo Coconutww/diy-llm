@@ -1,0 +1,17 @@
+data/owt_valid.txt
+data/TinyStoriesV2-GPT4-train.txt
+.gitignore
+base_backup.yml
+Assignment1_Basics.pdf
+environment.yml
+data
+.venv
+.vscode
+.claude
+Assignment1_Basics.pdf
+image-1.png
+image.png
+image-2.png
+image-3.png
+bpe_tokenizer/tokenizer.json
+data.bin
